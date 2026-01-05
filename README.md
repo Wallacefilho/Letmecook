@@ -1,2 +1,3 @@
 # Letmecook
-Sim
+Alunos: Wallace e Matheus
+Disciplina: PSI
